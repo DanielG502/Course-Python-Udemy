@@ -1,0 +1,26 @@
+/*p{
+    color: blue;
+    ;
+}
+
+h1{
+    background-color:green;
+}
+
+main{
+    background-color: silver;
+}
+
+body{
+    background-color:black;
+
+} */
+
+p{
+    color: tomato;
+}
+
+a{
+    color: tomato;
+    /* inherit es para agregar una herencia a otra etiqueta, tipo padre e hijo*/
+}
